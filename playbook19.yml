@@ -5,7 +5,7 @@
   tasks:
     - name: install apache
       apt: 
-       name: apache2 
+       name: apache
        state: latest
 
 
